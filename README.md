@@ -1,4 +1,4 @@
-# Cloud Native Resource Monitoring Python App on Kubernetes!
+# Cloud Native Resource Monitoring Python App on AWS!
 
 
 ## Prerequisites
